@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-<a href="https://chaithanyasirivuri.netlify.app/">
+<a href="https://chaitanyasirivuri.netlify.app/">
   <img src="assets\Screenshot 2024-12-11 191131.png">
 </a>
 </div>
